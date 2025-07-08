@@ -1,0 +1,1 @@
+print('Eczane uygulaması çalışıyor...')
